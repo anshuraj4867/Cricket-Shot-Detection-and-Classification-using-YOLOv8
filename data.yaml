@@ -1,0 +1,8 @@
+path: dataset
+train: images/train
+val: images/val
+
+names:
+  0: cover_drive
+  1: pull_shot
+  2: defensive_shot
